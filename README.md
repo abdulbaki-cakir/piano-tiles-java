@@ -64,7 +64,7 @@ Dieses Projekt wurde als Gruppenarbeit im Rahmen eines Hochschulkurses umgesetzt
 ---
 
 ## 🎥 Video-Demo
-🎬 [Hier klicken, um die Demo zu sehen]((https://youtube.com/shorts/jsfYGJXsw8o))
+🎬 [Hier klicken, um die Demo zu sehen](https://youtube.com/shorts/jsfYGJXsw8o)
 
 ---
 
