@@ -25,7 +25,8 @@ Dieses Projekt wurde als Gruppenarbeit im Rahmen eines Hochschulkurses umgesetzt
 ## 🎯 Lernziele
 - Vertiefung der **Java-Kenntnisse** mit Fokus auf OOP  
 - Erstellung einer **grafischen Benutzeroberfläche (UI) mit JavaFX**  
-- Umsetzung von **Event Handling**, Input-Verarbeitung und Tastatursteuerung  
+- Umsetzung von **Event Handling**, Input-Verarbeitung und Tastatursteuerung
+- Umsetzung einer **Game-Loop** 
 - Anwendung von **MVC-Architekturmuster**  
 - Strukturierung des Projekts mit **Gradle** und Versionskontrolle mit **Git**  
 - Implementierung von **JUnit-Tests** für die Spiellogik  
@@ -33,7 +34,7 @@ Dieses Projekt wurde als Gruppenarbeit im Rahmen eines Hochschulkurses umgesetzt
 ---
 
 ## ⚙️ Features
-- Spielgeschwindigkeit erhöht sich **dynamisch mit der Punktzahl**  
+- Spielgeschwindigkeit erhöht sich **dynamisch mit der Punktzahl** 
 - Auswahl aus **7 verschiedenen MIDI-Songs**  
 - **Pause-Button**  
 - **Start** und **Continue** mit **3-Sekunden-Countdown**  
