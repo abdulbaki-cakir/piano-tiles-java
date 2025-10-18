@@ -52,7 +52,6 @@ Dieses Projekt wurde als Gruppenarbeit im Rahmen eines Hochschulkurses umgesetzt
 ---
 
 ## 📸 Screenshots
-*(Füge hier deine Bilder ein, z. B. `screenshots/main-menu.png`)*
 
 | Main Menu | Start Screen | Game Screen |
 |-----------|--------------|------------|
@@ -65,7 +64,7 @@ Dieses Projekt wurde als Gruppenarbeit im Rahmen eines Hochschulkurses umgesetzt
 ---
 
 ## 🎥 Video-Demo
-🎬 [Hier klicken, um die Demo zu sehen](https://youtu.be/DEIN_VIDEO_LINK)
+🎬 [Hier klicken, um die Demo zu sehen]((https://youtube.com/shorts/jsfYGJXsw8o))
 
 ---
 
