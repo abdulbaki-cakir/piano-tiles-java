@@ -18,7 +18,8 @@ Dieses Projekt wurde als Gruppenarbeit im Rahmen eines Hochschulkurses umgesetzt
 - Steuerung und Event Handling (`javafx/`)  
 - Integration der MIDI-Songs und Tastatursteuerung  
 - Umsetzung der Features wie Pause, Countdown und dynamische Spielgeschwindigkeit  
-- Implementierung von **JUnit-Tests** zur Überprüfung der Spiellogik  
+- Implementierung von **JUnit-Tests** zur Überprüfung der Spiellogik
+- Einbau von Exceptions (z. B. `IllegalStateException`) zur robusten Fehlerbehandlung und Zustandskontrolle
 
 ---
 
